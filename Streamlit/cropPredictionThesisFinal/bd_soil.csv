@@ -1,0 +1,508 @@
+Division,District,Upazila,Latitude,Longitude,Agroecological_zone_no,Agroecological_zone_name,Meteoro_station,PH,phosphorus,potassium
+Rajshahi,Joypurhat,Akkelpur,24.9249,89.037,25,Level Barind Tract,Bogra,4.5-5.5,6,2
+Rajshahi,Joypurhat,Joypurhat Sadar,25.1147,89.037,3,Tista Meander Floodplain,Bogra,5.6-6.5,6,2
+Rajshahi,Joypurhat,Kalai,25.08,89.1992,25,Level Barind Tract,Bogra,4.5-5.5,6,2
+Rajshahi,Joypurhat,Khetlal,25.038,89.1086,25,Level Barind Tract,Bogra,5.6-6.5,6,1
+Rajshahi,Joypurhat,Panchbibi,25.1859,89.0179,25,Level Barind Tract,Bogra,4.5-5.5,6,1
+Rajshahi,Bogra,Adamdighi,24.8003,89.0418,25,Level Barind Tract,Bogra,5.6-6.5,5,1
+Rajshahi,Bogra,Bogra Sadar,24.879,89.3417,25,Level Barind Tract,Bogra,5.6-6.5,5,1
+Rajshahi,Bogra,Dhunat,24.678,89.5403,4,Karatoya-Bengali Floodplain,Bogra,5.6-6.5,2,1
+Rajshahi,Bogra,Dhupchanchia,24.8812,89.1777,25,Level Barind Tract,Bogra,4.5-5.5,6,2
+Rajshahi,Bogra,Gabtali,24.8795,89.4553,4,Karatoya-Bengali Floodplain,Bogra,5.6-6.5,6,2
+Rajshahi,Bogra,Kahaloo,24.8331,89.2689,25,Level Barind Tract,Bogra,5.6-6.5,4,2
+Rajshahi,Bogra,Nandigram,24.6886,89.2277,25,Level Barind Tract,Bogra,5.6-6.5,5,2
+Rajshahi,Bogra,Sariakandi,24.8888,89.571,4,Karatoya-Bengali Floodplain,Bogra,5.6-6.5,5,1
+Rajshahi,Bogra,Shajahanpur,24.7604,89.3606,4,Karatoya-Bengali Floodplain,Bogra,5.6-6.5,6,1
+Rajshahi,Bogra,Sherpur,24.6419,89.4175,25,Level Barind Tract,Bogra,5.6-6.5,6,1
+Rajshahi,Bogra,Shibganj,25.0167,89.3167,3,Tista Meander Floodplain,Bogra,5.6-6.5,3,1
+Rajshahi,Bogra,Sonatola,25.0102,89.5026,4,Karatoya-Bengali Floodplain,Bogra,5.6-6.5,6,4
+Rajshahi,Naogaon,Atrai,24.6122,88.9829,5,Lower Atrai Basin,Rajshahi,5.6-6.5,4,4
+Rajshahi,Naogaon,Badalgachhi,24.9685,88.9102,3,Tista Meander Floodplain,Bogra,5.6-6.5,2,2
+Rajshahi,Naogaon,Manda,24.7759,88.7026,3,Tista Meander Floodplain,Rajshahi,5.6-6.5,2,2
+Rajshahi,Naogaon,Dhamoirhat,25.1504,88.8515,25,Level Barind Tract,Dinajpur,4.5-5.5,2,5
+Rajshahi,Naogaon,Mohadevpur,24.9198,88.7518,25,Level Barind Tract,Rajshahi,4.5-5.5,4,5
+Rajshahi,Naogaon,Naogaon Sadar,24.7814,88.8839,3,Tista Meander Floodplain,Bogra,5.6-6.5,2,5
+Rajshahi,Naogaon,Niamatpur,24.8355,88.568,26,High Barind Tract,Rajshahi,4.5-5.5,2,5
+Rajshahi,Naogaon,Patnitala,25.0649,88.7302,25,Level Barind Tract,Dinajpur,4.5-5.5,2,2
+Rajshahi,Naogaon,Porsha,25.0079,88.4925,26,High Barind Tract,Dinajpur,4.5-5.5,4,1
+Rajshahi,Naogaon,Raninagar,24.7285,88.9557,25,Level Barind Tract,Bogra,5.6-6.5,5,1
+Rajshahi,Naogaon,Sapahar,25.1259,88.5879,26,High Barind Tract,Dinajpur,4.5-5.5,2,1
+Rajshahi,Natore,Bagatipara,24.3071,88.9988,11,High Ganges River Floodplain,Ishurdi,7.4-8.4,6,1
+Rajshahi,Natore,Baraigram,24.2841,89.1325,11,High Ganges River Floodplain,Ishurdi,7.4-8.4,2,3
+Rajshahi,Natore,Gurudaspur,24.3561,89.2657,12,Low Ganges River Floodplain,Ishurdi,7.4-8.4,2,3
+Rajshahi,Natore,Lalpur,24.2117,88.9605,11,High Ganges River Floodplain,Ishurdi,7.4-8.4,6,3
+Rajshahi,Natore,Natore Sadar,24.4022,88.9988,11,High Ganges River Floodplain,Ishurdi,6.6-7.3,4,2
+Rajshahi,Natore,Singra,24.5,89.1429,5,Lower Atrai Basin,Ishurdi,5.6-6.5,6,6
+Rajshahi,Natore,Naldanga,24.4969,88.9605,11,High Ganges River Floodplain,Rajshahi,5.6-6.5,2,6
+Rajshahi,Nawabganj,Bholahat,24.916999999999998,88.1877,11,High Ganges River Floodplain,Rajshahi,5.6-6.5,2,6
+Rajshahi,Nawabganj,Gomastapur,24.7934,88.2898,26,High Barind Tract,Rajshahi,4.5-5.5,2,6
+Rajshahi,Nawabganj,Nachole,24.7327,88.4137,26,High Barind Tract,Rajshahi,4.5-5.5,6,1
+Rajshahi,Nawabganj,Nawabganj Sadar,24.5915,88.2821,10,Active Ganges Floodplain,Rajshahi,6.6-7.3,2,1
+Rajshahi,Nawabganj,Shibganj,24.6837,88.1572,11,High Ganges River Floodplain,Rajshahi,7.4-8.4,6,5
+Rajshahi,Pabna,Ataikula,24.0324,89.4078,10,Active Ganges Floodplain,Ishurdi,7.4-8.4,2,5
+Rajshahi,Pabna,Atgharia,24.1182,89.2277,12,Low Ganges River Floodplain,Ishurdi,7.4-8.4,2,6
+Rajshahi,Pabna,Bera,24.0769,89.6155,12,Low Ganges River Floodplain,Tangail,6.6-7.3,5,6
+Rajshahi,Pabna,Bhangura,24.208000000000002,89.3654,12,Low Ganges River Floodplain,Ishurdi,6.6-7.3,5,6
+Rajshahi,Pabna,Chatmohar,24.2137,89.3037,12,Low Ganges River Floodplain,Ishurdi,6.6-7.3,6,6
+Rajshahi,Pabna,Faridpur,23.6204,89.81299999999996,12,Low Ganges River Floodplain,Faridpur,7.4-8.4,3,6
+Rajshahi,Pabna,Ishwardi,24.129,89.0715,11,High Ganges River Floodplain,Ishurdi,7.4-8.4,3,6
+Rajshahi,Pabna,Pabna Sadar,24.0076,89.2383,11,High Ganges River Floodplain,Ishurdi,7.4-8.4,3,6
+Rajshahi,Pabna,Santhia,24.0719,89.5309,12,Low Ganges River Floodplain,Tangail,6.6-7.3,2,6
+Rajshahi,Pabna,Sujanagar,23.9422,89.421,12,Low Ganges River Floodplain,Ishurdi,7.4-8.4,3,5
+Rajshahi,Sirajganj,Belkuchi,24.2952,89.6981,4,Karatoya-Bengali Floodplain,Tangail,5.6-6.5,3,5
+Rajshahi,Sirajganj,Chauhali,24.0724,89.7568,7,Active Brahmaputra-Jamuna Floodplain,Tangail,5.6-6.5,6,5
+Rajshahi,Sirajganj,Kamarkhanda,24.3932,89.6534,4,Karatoya-Bengali Floodplain,Tangail,4.5-5.5,6,4
+Rajshahi,Sirajganj,Kazipur,24.6521,89.6335,7,Active Brahmaputra-Jamuna Floodplain,Bogra,6.6-7.3,3,4
+Rajshahi,Sirajganj,Raiganj,24.4998,89.5309,4,Karatoya-Bengali Floodplain,Bogra,4.5-5.5,3,4
+Rajshahi,Sirajganj,Shahjadpur,24.1909,89.5875,4,Karatoya-Bengali Floodplain,Tangail,5.6-6.5,3,4
+Rajshahi,Sirajganj,Sirajganj Sadar,24.4524,89.7045,7,Active Brahmaputra-Jamuna Floodplain,Tangail,4.5-5.5,2,4
+Rajshahi,Sirajganj,Tarash,24.4309,89.3725,25,Level Barind Tract,Ishurdi,4.5-5.5,2,4
+Rajshahi,Sirajganj,Ullahpara,24.3572,89.5309,4,Karatoya-Bengali Floodplain,Tangail,4.5-5.5,3,6
+Rajshahi,Rajshahi,Bagha,24.2109,88.8455,11,High Ganges River Floodplain,Ishurdi,6.6-7.3,6,6
+Rajshahi,Rajshahi,Bagmara,24.5908,88.8071,11,High Ganges River Floodplain,Rajshahi,5.6-6.5,3,6
+Rajshahi,Rajshahi,Charghat,24.2785,88.7518,11,High Ganges River Floodplain,Rajshahi,7.4-8.4,3,6
+Rajshahi,Rajshahi,Durgapur,24.448,88.7686,11,High Ganges River Floodplain,Rajshahi,7.4-8.4,6,5
+Rajshahi,Rajshahi,Godagari,24.4687,88.4404,26,High Barind Tract,Rajshahi,5.6-6.5,6,5
+Rajshahi,Rajshahi,Mohanpur,24.5449,88.6362,11,High Ganges River Floodplain,Rajshahi,4.5-5.5,6,5
+Rajshahi,Rajshahi,Paba,24.435,88.6434,11,High Ganges River Floodplain,Rajshahi,6.6-7.3,3,2
+Rajshahi,Rajshahi,Puthia,24.3638,88.8367,11,High Ganges River Floodplain,Rajshahi,7.4-8.4,3,2
+Rajshahi,Rajshahi,Tanore,24.636,88.5372,25,Level Barind Tract,Rajshahi,4.5-5.5,4,2
+Rajshahi,Rajshahi,Boalia Thana,24.3695,88.6193,10,Active Ganges Floodplain,Rajshahi,7.4-8.4,3,2
+Rajshahi,Rajshahi,Matihar Thana,24.3668,88.6458,25,Level Barind Tract,Rajshahi,7.4-8.4,3,5
+Rajshahi,Rajshahi,Rajpara Thana,24.3808,88.5614,11,High Ganges River Floodplain,Rajshahi,7.4-8.4,6,5
+Rajshahi,Rajshahi,Shah Mokdum Thana,24.4085,88.6088,11,High Ganges River Floodplain,Rajshahi,7.4-8.4,6,5
+Rangpur,Dinajpur,Birampur,25.3868,88.9701,3,Tista Meander Floodplain,Dinajpur,4.5-5.5,6,2
+Rangpur,Dinajpur,Birganj,25.8934,88.6724,1,Old Himalayan Piedmont Plain,Sayedpur,5.6-6.5,6,2
+Rangpur,Dinajpur,Biral,25.6335,88.5505,1,Old Himalayan Piedmont Plain,Dinajpur,4.5-5.5,6,2
+Rangpur,Dinajpur,Bochaganj,25.7997,88.4622,1,Old Himalayan Piedmont Plain,Dinajpur,4.5-5.5,6,2
+Rangpur,Dinajpur,Chirirbandar,25.6503,88.7771,3,Tista Meander Floodplain,Dinajpur,5.6-6.5,6,2
+Rangpur,Dinajpur,Phulbari,25.4454,88.8839,25,Level Barind Tract,Dinajpur,4.5-5.5,3,2
+Rangpur,Dinajpur,Ghoraghat,25.3052,89.1896,27,North-Eastern Barind Tract,Rangpur,4.5-5.5,3,2
+Rangpur,Dinajpur,Hakimpur,25.2927,89.0657,25,Level Barind Tract,Rangpur,4.5-5.5,3,2
+Rangpur,Dinajpur,Kaharole,25.8216,88.5759,1,Old Himalayan Piedmont Plain,Dinajpur,5.6-6.5,3,2
+Rangpur,Dinajpur,Khansama,25.8706,88.7686,3,Tista Meander Floodplain,Sayedpur,4.5-5.5,3,2
+Rangpur,Dinajpur,Dinajpur Sadar,25.6366,88.6386,25,Level Barind Tract,Dinajpur,4.5-5.5,3,2
+Rangpur,Dinajpur,Nawabganj,25.4193,89.0785,27,North-Eastern Barind Tract,Dinajpur,4.5-5.5,3,2
+Rangpur,Dinajpur,Parbatipur,25.6544,88.9162,25,Level Barind Tract,Sayedpur,4.5-5.5,6,2
+Rangpur,Gaibandha,Phulchhari,25.3198,89.5959,7,Active Brahmaputra-Jamuna Floodplain,Bogra,5.6-6.5,6,4
+Rangpur,Gaibandha,Gaibandha Sadar,25.3297,89.5429,3,Tista Meander Floodplain,Rangpur,5.6-6.5,6,4
+Rangpur,Gaibandha,Gobindaganj,25.1404,89.4364,3,Tista Meander Floodplain,Bogra,4.5-5.5,6,2
+Rangpur,Gaibandha,Palashbari,25.2706,89.3891,3,Tista Meander Floodplain,Bogra,5.6-6.5,6,2
+Rangpur,Gaibandha,Sadullapur,25.3909,89.4659,3,Tista Meander Floodplain,Rangpur,4.5-5.5,6,2
+Rangpur,Gaibandha,Sughatta,25.1222,89.5856,3,Tista Meander Floodplain,Bogra,4.5-5.5,6,2
+Rangpur,Gaibandha,Sundarganj,25.5644,89.5191,3,Tista Meander Floodplain,Rangpur,4.5-5.5,6,3
+Rangpur,Kurigram,Bhurungamari,26.112,89.6816,3,Tista Meander Floodplain,Rangpur,5.6-6.5,6,3
+Rangpur,Kurigram,Char Rajibpur,25.4613,89.7662,7,Active Brahmaputra-Jamuna Floodplain,Rangpur,7.4-8.4,6,2
+Rangpur,Kurigram,Chilmari,25.581,89.6616,3,Tista Meander Floodplain,Rangpur,7.4-8.4,6,2
+Rangpur,Kurigram,Phulbari,25.95,89.5667,3,Tista Meander Floodplain,Rangpur,5.6-6.5,6,2
+Rangpur,Kurigram,Kurigram Sadar,25.8282,89.6816,3,Tista Meander Floodplain,Rangpur,5.6-6.5,6,2
+Rangpur,Kurigram,Nageshwari,25.9659,89.6913,3,Tista Meander Floodplain,Rangpur,7.4-8.4,6,2
+Rangpur,Kurigram,Rajarhat,25.796,89.5447,3,Tista Meander Floodplain,Rangpur,4.5-5.5,6,2
+Rangpur,Kurigram,Raomari,25.5917,89.8318,7,Active Brahmaputra-Jamuna Floodplain,Rangpur,5.6-6.5,6,2
+Rangpur,Kurigram,Ulipur,25.6564,89.6205,3,Tista Meander Floodplain,Rangpur,6.6-7.3,6,2
+Rangpur,Lalmonirhat,Aditmari,25.9218,89.3796,3,Tista Meander Floodplain,Rangpur,4.5-5.5,6,4
+Rangpur,Lalmonirhat,Hatibandha,26.1422,89.1349,3,Tista Meander Floodplain,Sayedpur,4.5-5.5,6,4
+Rangpur,Lalmonirhat,Kaliganj,25.9686,89.2657,3,Tista Meander Floodplain,Sayedpur,4.5-5.5,6,4
+Rangpur,Lalmonirhat,Lalmonirhat Sadar,25.8748,89.4553,3,Tista Meander Floodplain,Rangpur,4.5-5.5,6,4
+Rangpur,Lalmonirhat,Patgram,26.357,89.0084,3,Tista Meander Floodplain,Sayedpur,4.5-5.5,6,4
+Rangpur,Nilphamari,Dimla,26.1489,88.9197,3,Tista Meander Floodplain,Sayedpur,4.5-5.5,6,5
+Rangpur,Nilphamari,Domar,26.1547,88.8071,3,Tista Meander Floodplain,Sayedpur,4.5-5.5,6,5
+Rangpur,Nilphamari,Jaldhaka,26.0197,89.0166,3,Tista Meander Floodplain,Sayedpur,4.5-5.5,6,2
+Rangpur,Nilphamari,Kishoreganj,25.9202,89.0752,3,Tista Meander Floodplain,Sayedpur,4.5-5.5,6,2
+Rangpur,Nilphamari,Nilphamari Sadar,25.9485,88.8374,3,Tista Meander Floodplain,Sayedpur,4.5-5.5,6,2
+Rangpur,Nilphamari,Saidpur,25.8245,88.9222,3,Tista Meander Floodplain,Sayedpur,5.6-6.5,6,2
+Rangpur,Panchagarh,Atwari,26.2455,88.421,1,Old Himalayan Piedmont Plain,Sayedpur,4.5-5.5,6,4
+Rangpur,Panchagarh,Boda,26.2474,88.6145,1,Old Himalayan Piedmont Plain,Sayedpur,4.5-5.5,6,4
+Rangpur,Panchagarh,Debiganj,26.1202,88.7589,3,Tista Meander Floodplain,Sayedpur,4.5-5.5,6,4
+Rangpur,Panchagarh,Panchagarh Sadar,26.3891,88.6145,1,Old Himalayan Piedmont Plain,Sayedpur,4.5-5.5,6,4
+Rangpur,Panchagarh,Tetulia,26.517,88.4307,1,Old Himalayan Piedmont Plain,Sayedpur,4.5-5.5,6,1
+Rangpur,Rangpur,Badarganj,25.654,89.0705,3,Tista Meander Floodplain,Sayedpur,5.6-6.5,6,4
+Rangpur,Rangpur,Gangachhara,25.8301,89.1196,3,Tista Meander Floodplain,Rangpur,4.5-5.5,6,4
+Rangpur,Rangpur,Kaunia,25.7742,89.4317,3,Tista Meander Floodplain,Rangpur,5.6-6.5,6,3
+Rangpur,Rangpur,Rangpur Sadar,25.7318,89.2277,3,Tista Meander Floodplain,Rangpur,5.6-6.5,6,3
+Rangpur,Rangpur,Mithapukur,25.6137,89.2847,3,Tista Meander Floodplain,Rangpur,5.6-6.5,6,4
+Rangpur,Rangpur,Pirgachha,25.6578,89.4056,3,Tista Meander Floodplain,Rangpur,4.5-5.5,6,4
+Rangpur,Rangpur,Pirganj,25.4362,89.3132,27,North-Eastern Barind Tract,Rangpur,5.6-6.5,6,3
+Rangpur,Rangpur,Taraganj,25.778000000000002,89.037,3,Tista Meander Floodplain,Sayedpur,4.5-5.5,6,3
+Rangpur,Thakurgaon,Baliadangi,26.0855,88.2765,1,Old Himalayan Piedmont Plain,Dinajpur,5.6-6.5,6,1
+Rangpur,Thakurgaon,Haripur,25.8641,88.1487,1,Old Himalayan Piedmont Plain,Dinajpur,4.5-5.5,6,1
+Rangpur,Thakurgaon,Pirganj,25.8191,88.3434,1,Old Himalayan Piedmont Plain,Dinajpur,4.5-5.5,6,2
+Rangpur,Thakurgaon,Ranisankail,25.892,88.2583,1,Old Himalayan Piedmont Plain,Dinajpur,4.5-5.5,6,2
+Rangpur,Thakurgaon,Thakurgaon Sadar,26.0288,88.4786,1,Old Himalayan Piedmont Plain,Dinajpur,4.5-5.5,6,2
+Barisal,Barguna,Amtali,22.1339,90.2362,13,Ganges Tidal Floodplain,Khepupara,4.5-5.5,2,5
+Barisal,Barguna,Bamna,22.2742,90.0467,13,Ganges Tidal Floodplain,Patuakhali,4.5-5.5,2,5
+Barisal,Barguna,Barguna Sadar,22.1191,90.0934,13,Ganges Tidal Floodplain,Khepupara,5.6-6.5,2,5
+Barisal,Barguna,Betagi,22.4142,90.1659,13,Ganges Tidal Floodplain,Patuakhali,5.6-6.5,2,5
+Barisal,Barguna,Patharghata,22.0715,89.944,13,Ganges Tidal Floodplain,Khepupara,4.5-5.5,2,6
+Barisal,Barguna,Taltoli,22.0237,90.1308,13,Ganges Tidal Floodplain,Khepupara,4.5-5.5,2,6
+Barisal,Barisal,Agailjhara,22.9713,90.1635,19,Meghna Estuarine Floodplain,Madaripur,5.6-6.5,2,6
+Barisal,Barisal,Babuganj,22.8341,90.3184,13,Ganges Tidal Floodplain,Barisal,6.6-7.3,2,6
+Barisal,Barisal,Bakerganj,22.5409,90.3332,13,Ganges Tidal Floodplain,Barisal,5.6-6.5,2,6
+Barisal,Barisal,Banaripara,22.7779,90.1623,13,Ganges Tidal Floodplain,Barisal,5.6-6.5,2,6
+Barisal,Barisal,Gaurnadi,22.9414,90.2526,12,Low Ganges River Floodplain,Madaripur,6.6-7.3,2,6
+Barisal,Barisal,Hizla,22.9284,90.441,13,Ganges Tidal Floodplain,Barisal,7.4-8.4,2,5
+Barisal,Barisal,Barisal Sadar,22.7385,90.4314,13,Ganges Tidal Floodplain,Barisal,6.6-7.3,1,5
+Barisal,Barisal,Mehendiganj,22.8261,90.527,13,Ganges Tidal Floodplain,Barisal,7.4-8.4,1,5
+Barisal,Barisal,Muladi,22.8875,90.389,13,Ganges Tidal Floodplain,Barisal,7.4-8.4,1,5
+Barisal,Barisal,Wazirpur,22.881999999999998,90.0934,19,Meghna Estuarine Floodplain,Madaripur,5.6-6.5,1,6
+Barisal,Bhola,Bhola Sadar,22.6902,90.6204,18,Young Meghna Estuarine Floodplain,Barisal,5.6-6.5,1,6
+Barisal,Bhola,Burhanuddin,22.4753,90.7153,18,Young Meghna Estuarine Floodplain,Bhola,6.6-7.3,1,6
+Barisal,Bhola,Char Fasson,22.0938,90.7153,18,Young Meghna Estuarine Floodplain,Bhola,5.6-6.5,1,6
+Barisal,Bhola,Daulatkhan,22.6051,90.7414,18,Young Meghna Estuarine Floodplain,Barisal,7.4-8.4,2,5
+Barisal,Bhola,Lalmohan,22.3404,90.7347,18,Young Meghna Estuarine Floodplain,Bhola,7.4-8.4,2,5
+Barisal,Bhola,Manpura,22.1999,90.9534,18,Young Meghna Estuarine Floodplain,Hatiya,6.6-7.3,2,5
+Barisal,Bhola,Tazumuddin,22.41800000000001,90.8508,18,Young Meghna Estuarine Floodplain,Hatiya,5.6-6.5,2,5
+Barisal,Jhalokati,Jhalokati Sadar,22.6912,90.2057,13,Ganges Tidal Floodplain,Barisal,6.6-7.3,2,6
+Barisal,Jhalokati,Kathalia,22.4053,90.0934,13,Ganges Tidal Floodplain,Patuakhali,6.6-7.3,2,6
+Barisal,Jhalokati,Nalchity,22.5958,90.2808,13,Ganges Tidal Floodplain,Barisal,5.6-6.5,2,6
+Barisal,Jhalokati,Rajapur,22.5704,90.1439,13,Ganges Tidal Floodplain,Barisal,4.5-5.5,2,6
+Barisal,Patuakhali,Bauphal,22.4193,90.5565,13,Ganges Tidal Floodplain,Patuakhali,5.6-6.5,2,6
+Barisal,Patuakhali,Dashmina,22.2791,90.5683,13,Ganges Tidal Floodplain,Bhola,5.6-6.5,2,6
+Barisal,Patuakhali,Galachipa,22.1634,90.4102,13,Ganges Tidal Floodplain,Patuakhali,5.6-6.5,2,6
+Barisal,Patuakhali,Kalapara,21.9044,90.18700000000001,13,Ganges Tidal Floodplain,Khepupara,4.5-5.5,2,5
+Barisal,Patuakhali,Mirzaganj,22.3694,90.2151,13,Ganges Tidal Floodplain,Patuakhali,6.6-7.3,2,5
+Barisal,Patuakhali,Patuakhali Sadar,22.3588,90.3452,13,Ganges Tidal Floodplain,Patuakhali,6.6-7.3,1,5
+Barisal,Patuakhali,Rangabali,21.904,90.4125,18,Young Meghna Estuarine Floodplain,Khepupara,7.4-8.4,1,6
+Barisal,Patuakhali,Dumki,22.4645,90.3843,13,Ganges Tidal Floodplain,Patuakhali,7.4-8.4,1,6
+Barisal,Pirojpur,Bhandaria,22.4411,90.0093,13,Ganges Tidal Floodplain,Patuakhali,6.6-7.3,2,6
+Barisal,Pirojpur,Kawkhali,22.6079,90.0467,13,Ganges Tidal Floodplain,Barisal,6.6-7.3,2,6
+Barisal,Pirojpur,Mathbaria,22.2861,89.9627,13,Ganges Tidal Floodplain,Patuakhali,4.5-5.5,2,6
+Barisal,Pirojpur,Nazirpur,22.7867,89.9813,13,Ganges Tidal Floodplain,Barisal,6.6-7.3,1,6
+Barisal,Pirojpur,Pirojpur Sadar,22.596,89.9813,13,Ganges Tidal Floodplain,Barisal,6.6-7.3,1,6
+Barisal,Pirojpur,Nesarabad (Swarupkati),22.745,90.1167,13,Ganges Tidal Floodplain,Barisal,6.6-7.3,1,6
+Barisal,Pirojpur,Zianagor,22.4858,89.9603,13,Ganges Tidal Floodplain,Mongla,6.6-7.3,1,6
+Chittagong,Bandarban,Ali Kadam,21.653000000000002,92.3148,29,Northern and Eastern Hills,Cox'sBazar,4.5-5.5,6,6
+Chittagong,Bandarban,Bandarban Sadar,22.195999999999998,92.2176,29,Northern and Eastern Hills,Chittagong(Patenga),5.6-6.5,6,6
+Chittagong,Bandarban,Lama,21.7937,92.26299999999999,29,Northern and Eastern Hills,Kutubdia,5.6-6.5,2,6
+Chittagong,Bandarban,Naikhongchhari,21.4269,92.1757,29,Northern and Eastern Hills,Cox'sBazar,4.5-5.5,2,6
+Chittagong,Bandarban,Rowangchhari,22.1975,92.3616,29,Northern and Eastern Hills,Chittagong(Patenga),4.5-5.5,2,6
+Chittagong,Bandarban,Ruma,22.0555,92.3987,29,Northern and Eastern Hills,Kutubdia,5.6-6.5,2,6
+Chittagong,Bandarban,Thanchi,21.8211,92.4357,29,Northern and Eastern Hills,Kutubdia,4.5-5.5,2,6
+Chittagong,Brahmanbaria,Akhaura,23.8686,91.2097,22,Northern and Eastern Piedmont Plains,Comilla,4.5-5.5,1,6
+Chittagong,Brahmanbaria,Bancharampur,23.7784,90.8043,16,Middle Meghna River Floodplain,Dhaka,4.5-5.5,1,6
+Chittagong,Brahmanbaria,Brahmanbaria Sadar,23.9258,91.1161,19,Meghna Estuarine Floodplain,Comilla,5.6-6.5,1,2
+Chittagong,Brahmanbaria,Kasba,23.7831,91.1161,19,Meghna Estuarine Floodplain,Comilla,5.6-6.5,2,2
+Chittagong,Brahmanbaria,Nabinagar,23.8882,90.9606,19,Meghna Estuarine Floodplain,Comilla,5.6-6.5,2,2
+Chittagong,Brahmanbaria,Nasirnagar,24.1954,91.1984,19,Meghna Estuarine Floodplain,Srimangal,5.6-6.5,2,5
+Chittagong,Brahmanbaria,Sarail,24.1164,91.0778,21,sylhet Basin,Srimangal,4.5-5.5,2,5
+Chittagong,Brahmanbaria,Ashuganj,24.0385,91.0037,19,Meghna Estuarine Floodplain,Dhaka,5.6-6.5,2,5
+Chittagong,Brahmanbaria,Bijoynagar,24.0142,91.2266,19,Meghna Estuarine Floodplain,Srimangal,5.6-6.5,2,5
+Chittagong,Chandpur,Chandpur Sadar,23.2321,90.6631,17,Lower Meghna River Floodplain,Chandpur,5.6-6.5,2,2
+Chittagong,Chandpur,Faridganj,23.1275,90.7509,17,Lower Meghna River Floodplain,Chandpur,5.6-6.5,2,2
+Chittagong,Chandpur,Haimchar,23.0594,90.6489,17,Lower Meghna River Floodplain,Chandpur,7.4-8.4,2,2
+Chittagong,Chandpur,Haziganj,23.252,90.8508,19,Meghna Estuarine Floodplain,Chandpur,5.6-6.5,2,4
+Chittagong,Chandpur,Kachua,23.3411,90.889,19,Meghna Estuarine Floodplain,Chandpur,4.5-5.5,2,4
+Chittagong,Chandpur,Matlab Dakshin,23.3448,90.7628,16,Middle Meghna River Floodplain,Chandpur,5.6-6.5,2,4
+Chittagong,Chandpur,Matlab Uttar,23.4287,90.6394,16,Middle Meghna River Floodplain,Chandpur,5.6-6.5,2,1
+Chittagong,Chandpur,Shahrasti,23.2306,90.9486,19,Meghna Estuarine Floodplain,Chandpur,5.6-6.5,2,1
+Chittagong,Chittagong,Anwara,22.2337,91.866,23,Chittagong Coastal Plain,Chittagong(Patenga),4.5-5.5,1,2
+Chittagong,Chittagong,Banshkhali,22.0254,91.9463,23,Chittagong Coastal Plain,Kutubdia,4.5-5.5,1,2
+Chittagong,Chittagong,Boalkhali,22.3791,91.9173,23,Chittagong Coastal Plain,Chittagong(Ambagan),5.6-6.5,1,1
+Chittagong,Chittagong,Chandanaish,22.2489,92.0861,29,Northern and Eastern Hills,Chittagong(Patenga),4.5-5.5,1,1
+Chittagong,Chittagong,Fatikchhari,22.7537,91.715,29,Northern and Eastern Hills,Sitakunda,4.5-5.5,2,1
+Chittagong,Chittagong,Hathazari,22.5085,91.8075,23,Chittagong Coastal Plain,Chittagong(Ambagan),5.6-6.5,2,2
+Chittagong,Chittagong,Lohagara,22.0449,92.1078,23,Chittagong Coastal Plain,Kutubdia,4.5-5.5,2,2
+Chittagong,Chittagong,Mirsharai,22.773000000000003,91.5742,23,Chittagong Coastal Plain,Sitakunda,4.5-5.5,2,4
+Chittagong,Chittagong,Patiya,22.2981,91.9686,23,Chittagong Coastal Plain,Chittagong(Ambagan),4.5-5.5,2,4
+Chittagong,Chittagong,Rangunia,22.4872,92.0861,29,Northern and Eastern Hills,Chittagong(Ambagan),4.5-5.5,2,4
+Chittagong,Chittagong,Raozan,22.525,91.9197,23,Chittagong Coastal Plain,Chittagong(Ambagan),4.5-5.5,2,4
+Chittagong,Chittagong,Sandwip,22.4919,91.4209,18,Young Meghna Estuarine Floodplain,Sandwip,5.6-6.5,2,4
+Chittagong,Chittagong,Satkania,22.1059,92.0861,23,Chittagong Coastal Plain,Chittagong(Patenga),4.5-5.5,2,3
+Chittagong,Chittagong,Sitakunda,22.5513,91.7052,29,Northern and Eastern Hills,Sitakunda,5.6-6.5,2,3
+Chittagong,Chittagong,Bandor (Chittagong Port) Thana,22.2806,91.7917,23,Chittagong Coastal Plain,Chittagong(Patenga),4.5-5.5,2,2
+Chittagong,Chittagong,Chandgaon Thana,22.3888,91.8562,23,Chittagong Coastal Plain,Chittagong(Ambagan),4.5-5.5,2,2
+Chittagong,Chittagong,Double Mooring Thana,22.3297,91.8075,23,Chittagong Coastal Plain,Chittagong(Ambagan),4.5-5.5,2,2
+Chittagong,Chittagong,Kotwali Thana,22.3297,91.8075,23,Chittagong Coastal Plain,Chittagong(Ambagan),4.5-5.5,2,2
+Chittagong,Chittagong,Pahartali Thana,22.3658,91.7782,23,Chittagong Coastal Plain,Chittagong(Ambagan),4.5-5.5,2,2
+Chittagong,Chittagong,Panchlaish Thana,22.3622,91.8343,23,Chittagong Coastal Plain,Chittagong(Ambagan),4.5-5.5,2,2
+Chittagong,Comilla,Barura,23.3762,91.0556,19,Meghna Estuarine Floodplain,Comilla,5.6-6.5,6,1
+Chittagong,Comilla,Brahmanpara,23.6225,91.1017,19,Meghna Estuarine Floodplain,Comilla,5.6-6.5,6,1
+Chittagong,Comilla,Burichang,23.5451,91.1161,22,Northern and Eastern Piedmont Plains,Comilla,4.5-5.5,6,1
+Chittagong,Comilla,Chandina,23.4892,91.0084,19,Meghna Estuarine Floodplain,Comilla,6.6-7.3,6,2
+Chittagong,Comilla,Chauddagram,23.3058,91.2698,19,Meghna Estuarine Floodplain,Comilla,4.5-5.5,6,2
+Chittagong,Comilla,Daudkandi,23.5338,90.7247,19,Meghna Estuarine Floodplain,Chandpur,5.6-6.5,6,2
+Chittagong,Comilla,Debidwar,23.5934,91.0012,19,Meghna Estuarine Floodplain,Comilla,6.6-7.3,6,2
+Chittagong,Comilla,Homna,23.6825,90.7833,16,Middle Meghna River Floodplain,Dhaka,5.6-6.5,3,2
+Chittagong,Comilla,Laksam,23.2449,91.1212,19,Meghna Estuarine Floodplain,Comilla,5.6-6.5,3,5
+Chittagong,Comilla,Muradnagar,23.7128,90.9438,19,Meghna Estuarine Floodplain,Comilla,4.5-5.5,6,5
+Chittagong,Comilla,Nangalkot,23.1694,91.1977,19,Meghna Estuarine Floodplain,Feni,5.6-6.5,6,5
+Chittagong,Comilla,Comilla Adarsha Sadar,23.4614,91.1641,22,Northern and Eastern Piedmont Plains,Comilla,4.5-5.5,6,2
+Chittagong,Comilla,Meghna,23.6248,90.70100000000001,19,Meghna Estuarine Floodplain,Dhaka,5.6-6.5,6,2
+Chittagong,Comilla,Titas,23.5947,90.7723,19,Meghna Estuarine Floodplain,Chandpur,5.6-6.5,6,2
+Chittagong,Comilla,Monohargonj,23.1123,91.1158,19,Meghna Estuarine Floodplain,MaijdiCourt,5.6-6.5,6,2
+Chittagong,Comilla,Comilla Sadar Dakshin,23.3067,91.154,22,Northern and Eastern Piedmont Plains,Comilla,4.5-5.5,2,2
+Chittagong,Cox's Bazar,Chakaria,21.7619,92.0776,23,Chittagong Coastal Plain,Kutubdia,4.5-5.5,2,1
+Chittagong,Cox's Bazar,Cox's Bazar Sadar,21.4272,92.0061,23,Chittagong Coastal Plain,Cox'sBazar,5.6-6.5,2,1
+Chittagong,Cox's Bazar,Kutubdia,21.8167,91.8583,23,Chittagong Coastal Plain,Kutubdia,4.5-5.5,2,1
+Chittagong,Cox's Bazar,Maheshkhali,21.5834,91.9295,29,Northern and Eastern Hills,Cox'sBazar,4.5-5.5,1,2
+Chittagong,Cox's Bazar,Ramu,21.4324,92.1008,29,Northern and Eastern Hills,Cox'sBazar,4.5-5.5,1,2
+Chittagong,Cox's Bazar,Teknaf,21.0557,92.204,29,Northern and Eastern Hills,Teknaf,4.5-5.5,1,2
+Chittagong,Cox's Bazar,Ukhia,21.2447,92.1389,29,Northern and Eastern Hills,Teknaf,5.6-6.5,1,2
+Chittagong,Cox's Bazar,Pekua,21.8327,91.9574,23,Chittagong Coastal Plain,Kutubdia,4.5-5.5,1,1
+Chittagong,Feni,Chhagalnaiya,23.0386,91.5184,23,Chittagong Coastal Plain,Feni,4.5-5.5,6,1
+Chittagong,Feni,Daganbhuiyan,22.971999999999998,91.3084,19,Meghna Estuarine Floodplain,Feni,4.5-5.5,2,1
+Chittagong,Feni,Feni Sadar,22.971,91.4241,19,Meghna Estuarine Floodplain,Feni,5.6-6.5,2,1
+Chittagong,Feni,Parshuram,23.2092,91.4241,23,Chittagong Coastal Plain,Feni,6.6-7.3,2,1
+Chittagong,Feni,Sonagazi,22.8491,91.3916,18,Young Meghna Estuarine Floodplain,Feni,5.6-6.5,2,1
+Chittagong,Feni,Fulgazi,23.1139,91.4241,19,Meghna Estuarine Floodplain,Feni,5.6-6.5,2,1
+Chittagong,Khagrachhari,Dighinala,23.2408,92.0641,29,Northern and Eastern Hills,Rangamati,4.5-5.5,2,6
+Chittagong,Khagrachhari,Khagrachhari,23.0946,91.9726,29,Northern and Eastern Hills,Rangamati,4.5-5.5,2,6
+Chittagong,Khagrachhari,Lakshmichhari,22.7962,91.9124,29,Northern and Eastern Hills,Sitakunda,4.5-5.5,2,6
+Chittagong,Khagrachhari,Mahalchhari,22.9317,92.0298,29,Northern and Eastern Hills,Rangamati,4.5-5.5,2,5
+Chittagong,Khagrachhari,Manikchhari,22.8417,91.8367,29,Northern and Eastern Hills,Sitakunda,4.5-5.5,2,5
+Chittagong,Khagrachhari,Matiranga,23.0408,91.8733,29,Northern and Eastern Hills,Feni,4.5-5.5,2,5
+Chittagong,Khagrachhari,Panchhari,23.3025,91.8977,29,Northern and Eastern Hills,Feni,4.5-5.5,2,5
+Chittagong,Khagrachhari,Ramgarh,22.9675,91.7734,29,Northern and Eastern Hills,Feni,4.5-5.5,2,5
+Chittagong,Lakshmipur,Lakshmipur Sadar,22.9512,90.8675,17,Lower Meghna River Floodplain,MaijdiCourt,5.6-6.5,2,1
+Chittagong,Lakshmipur,Raipur,22.9758,90.6963,17,Lower Meghna River Floodplain,Chandpur,6.6-7.3,2,1
+Chittagong,Lakshmipur,Ramganj,23.0992,90.861,19,Meghna Estuarine Floodplain,Chandpur,4.5-5.5,1,1
+Chittagong,Lakshmipur,Ramgati,22.6529,90.9343,18,Young Meghna Estuarine Floodplain,MaijdiCourt,6.6-7.3,1,1
+Chittagong,Lakshmipur,Kamalnagar,22.7845,90.8485,18,Young Meghna Estuarine Floodplain,MaijdiCourt,6.6-7.3,1,1
+Chittagong,Noakhali,Begumganj,22.9319,91.0921,19,Meghna Estuarine Floodplain,MaijdiCourt,5.6-6.5,2,2
+Chittagong,Noakhali,Noakhali Sadar,22.8246,91.1017,18,Young Meghna Estuarine Floodplain,MaijdiCourt,6.6-7.3,1,2
+Chittagong,Noakhali,Chatkhil,23.0578,90.9725,19,Meghna Estuarine Floodplain,MaijdiCourt,5.6-6.5,1,4
+Chittagong,Noakhali,Companiganj,22.8294,91.2698,18,Young Meghna Estuarine Floodplain,MaijdiCourt,7.4-8.4,1,6
+Chittagong,Noakhali,Hatiya,22.2824,91.0969,18,Young Meghna Estuarine Floodplain,Hatiya,6.6-7.3,1,6
+Chittagong,Noakhali,Senbagh,22.9726,91.2314,19,Meghna Estuarine Floodplain,Feni,5.6-6.5,3,2
+Chittagong,Noakhali,Sonaimuri,23.0509,91.1113,18,Young Meghna Estuarine Floodplain,MaijdiCourt,5.6-6.5,3,2
+Chittagong,Noakhali,Subarnachar,22.6638,91.0969,18,Young Meghna Estuarine Floodplain,MaijdiCourt,5.6-6.5,3,2
+Chittagong,Noakhali,Kabirhat,22.7956,91.1989,19,Meghna Estuarine Floodplain,MaijdiCourt,5.6-6.5,3,2
+Chittagong,Rangamati,Bagaichhari,23.1649,92.1914,29,Northern and Eastern Hills,Rangamati,4.5-5.5,2,5
+Chittagong,Rangamati,Barkal,22.7252,92.3795,29,Northern and Eastern Hills,Rangamati,4.5-5.5,2,5
+Chittagong,Rangamati,Kawkhali (Betbunia),22.6317,91.9686,29,Northern and Eastern Hills,Sitakunda,5.6-6.5,2,6
+Chittagong,Rangamati,Belaichhari,22.3623,92.5,29,Northern and Eastern Hills,Rangamati,4.5-5.5,2,6
+Chittagong,Rangamati,Kaptai,22.4944,92.2212,29,Northern and Eastern Hills,Rangamati,5.6-6.5,2,6
+Chittagong,Rangamati,Juraichhari,22.6708,92.3789,29,Northern and Eastern Hills,Rangamati,5.6-6.5,5,6
+Chittagong,Rangamati,Langadu,22.9386,92.1843,29,Northern and Eastern Hills,Rangamati,4.5-5.5,5,6
+Chittagong,Rangamati,Naniyachar,22.8622,92.1107,29,Northern and Eastern Hills,Rangamati,4.5-5.5,5,6
+Chittagong,Rangamati,Rajasthali,22.3893,92.2827,29,Northern and Eastern Hills,Rangamati,5.6-6.5,5,6
+Chittagong,Rangamati,Rangamati Sadar,22.6527,92.1843,29,Northern and Eastern Hills,Rangamati,4.5-5.5,5,6
+Dhaka,Dhaka,Dhamrai,23.916999999999998,90.154,8,Young Brahmaputra and Jamuna Floodplain,Dhaka,5.6-6.5,2,5
+Dhaka,Dhaka,Dohar,23.618000000000002,90.119,10,Active Ganges Floodplain,Faridpur,7.4-8.4,2,5
+Dhaka,Dhaka,Keraniganj,23.701,90.397,8,Young Brahmaputra and Jamuna Floodplain,Dhaka,5.6-6.5,2,5
+Dhaka,Dhaka,Nawabganj,23.660999999999998,90.161,12,Low Ganges River Floodplain,Dhaka,6.6-7.3,2,5
+Dhaka,Dhaka,Savar,23.79300000000001,90.271,28,Madhupur Tract,Dhaka,5.6-6.5,2,5
+Dhaka,Faridpur,Alfadanga,23.298000000000002,89.67200000000004,12,Low Ganges River Floodplain,Faridpur,7.4-8.4,6,3
+Dhaka,Faridpur,Bhanga,23.406,90.01799999999999,12,Low Ganges River Floodplain,Faridpur,7.4-8.4,6,3
+Dhaka,Faridpur,Boalmari,23.4058,89.6816,12,Low Ganges River Floodplain,Faridpur,7.4-8.4,2,3
+Dhaka,Faridpur,Charbhadrasan,23.596,89.98100000000002,10,Active Ganges Floodplain,Faridpur,7.4-8.4,2,5
+Dhaka,Faridpur,Faridpur Sadar,23.62,89.81299999999996,12,Low Ganges River Floodplain,Faridpur,6.6-7.3,2,5
+Dhaka,Faridpur,Madhukhali,23.548000000000002,89.60600000000002,12,Low Ganges River Floodplain,Faridpur,7.4-8.4,2,5
+Dhaka,Faridpur,Nagarkanda,23.45300000000001,89.906,12,Low Ganges River Floodplain,Faridpur,6.6-7.3,2,5
+Dhaka,Faridpur,Sadarpur,23.476999999999997,90.024,12,Low Ganges River Floodplain,Faridpur,7.4-8.4,2,6
+Dhaka,Faridpur,Saltha,23.432,89.78200000000002,12,Low Ganges River Floodplain,Faridpur,7.4-8.4,2,6
+Dhaka,Gazipur,Gazipur Sadar,23.999000000000002,90.42,28,Madhupur Tract,Dhaka,4.5-5.5,2,6
+Dhaka,Gazipur,Kaliakair,24.119,90.28,28,Madhupur Tract,Dhaka,4.5-5.5,2,6
+Dhaka,Gazipur,Kaliganj,23.964000000000002,90.573,28,Madhupur Tract,Dhaka,4.5-5.5,2,6
+Dhaka,Gazipur,Kapasia,24.166,90.58200000000001,28,Madhupur Tract,Dhaka,4.5-5.5,2,6
+Dhaka,Gazipur,Sreepur,24.199,90.48,28,Madhupur Tract,Dhaka,4.5-5.5,2,5
+Dhaka,Gopalganj,Gopalganj Sadar,23.048000000000002,89.887,14,Gopalgonj-Khulna Bils,Madaripur,7.4-8.4,1,5
+Dhaka,Gopalganj,Kashiani,23.166999999999998,89.794,12,Low Ganges River Floodplain,Madaripur,7.4-8.4,1,5
+Dhaka,Gopalganj,Kotalipara,22.989,90.02799999999998,15,Arial Bil,Madaripur,5.6-6.5,1,6
+Dhaka,Gopalganj,Muksudpur,23.263,89.906,14,Gopalgonj-Khulna Bils,Madaripur,5.6-6.5,1,6
+Dhaka,Gopalganj,Tungipara,22.906999999999996,89.898,12,Low Ganges River Floodplain,Khulna,7.4-8.4,1,6
+Dhaka,Jamalpur,Baksiganj,25.184,89.868,9,Old Brahmaputra Floodplain,Bogra,4.5-5.5,2,6
+Dhaka,Jamalpur,Dewanganj,25.141,89.78299999999999,8,Young Brahmaputra and Jamuna Floodplain,Bogra,6.6-7.3,2,5
+Dhaka,Jamalpur,Islampur,25.081,89.789,9,Old Brahmaputra Floodplain,Bogra,6.6-7.3,2,5
+Dhaka,Jamalpur,Jamalpur Sadar,24.925,89.946,8,Young Brahmaputra and Jamuna Floodplain,Mymensingh,5.6-6.5,2,5
+Dhaka,Jamalpur,Madarganj,24.88,89.756,8,Young Brahmaputra and Jamuna Floodplain,Bogra,7.4-8.4,3,5
+Dhaka,Jamalpur,Melandaha,24.980999999999998,89.82700000000001,9,Old Brahmaputra Floodplain,Bogra,5.6-6.5,3,5
+Dhaka,Jamalpur,Sarishabari,24.766,89.84,8,Young Brahmaputra and Jamuna Floodplain,Bogra,7.4-8.4,3,2
+Dhaka,Kishoreganj,Astagram,24.279,91.118,19,Meghna Estuarine Floodplain,Srimangal,5.6-6.5,3,2
+Dhaka,Kishoreganj,Bajitpur,24.2126,90.95,16,Middle Meghna River Floodplain,Dhaka,5.6-6.5,3,2
+Dhaka,Kishoreganj,Bhairab,24.0555,90.98,16,Middle Meghna River Floodplain,Dhaka,4.5-5.5,5,5
+Dhaka,Kishoreganj,Hossainpur,24.4166,90.655,8,Young Brahmaputra and Jamuna Floodplain,Mymensingh,5.6-6.5,5,5
+Dhaka,Kishoreganj,Itna,24.544,91.07700000000001,21,sylhet Basin,Mymensingh,5.6-6.5,5,5
+Dhaka,Kishoreganj,Karimganj,24.45,90.88600000000001,9,Old Brahmaputra Floodplain,Mymensingh,4.5-5.5,5,5
+Dhaka,Kishoreganj,Katiadi,24.252,90.796,8,Young Brahmaputra and Jamuna Floodplain,Dhaka,4.5-5.5,5,5
+Dhaka,Kishoreganj,Kishoreganj Sadar,24.432,90.786,8,Young Brahmaputra and Jamuna Floodplain,Mymensingh,5.6-6.5,5,6
+Dhaka,Kishoreganj,Kuliarchar,24.136,90.911,8,Young Brahmaputra and Jamuna Floodplain,Dhaka,5.6-6.5,6,6
+Dhaka,Kishoreganj,Mithamain,24.419,91.06299999999999,21,sylhet Basin,Srimangal,5.6-6.5,6,6
+Dhaka,Kishoreganj,Nikli,24.324,90.93299999999999,9,Old Brahmaputra Floodplain,Mymensingh,5.6-6.5,6,6
+Dhaka,Kishoreganj,Pakundia,24.308000000000003,90.696,8,Young Brahmaputra and Jamuna Floodplain,Mymensingh,4.5-5.5,6,6
+Dhaka,Kishoreganj,Tarail,24.549,90.889,9,Old Brahmaputra Floodplain,Mymensingh,5.6-6.5,2,2
+Dhaka,Madaripur,Rajoir,23.206,90.04899999999998,12,Low Ganges River Floodplain,Madaripur,5.6-6.5,2,2
+Dhaka,Madaripur,Madaripur Sadar,23.215,90.16799999999999,12,Low Ganges River Floodplain,Madaripur,6.6-7.3,2,2
+Dhaka,Madaripur,Kalkini,23.072,90.28,12,Low Ganges River Floodplain,Madaripur,6.6-7.3,2,2
+Dhaka,Madaripur,Shibchar,23.358,90.16799999999999,12,Low Ganges River Floodplain,Madaripur,7.4-8.4,2,3
+Dhaka,Manikganj,Daulatpur,23.9611,89.8417,8,Young Brahmaputra and Jamuna Floodplain,Tangail,6.6-7.3,2,3
+Dhaka,Manikganj,Ghior,23.87,89.916,12,Low Ganges River Floodplain,Faridpur,5.6-6.5,2,3
+Dhaka,Manikganj,Harirampur,23.715,89.962,12,Low Ganges River Floodplain,Faridpur,5.6-6.5,5,6
+Dhaka,Manikganj,Manikgonj Sadar,23.834,90.01799999999999,8,Young Brahmaputra and Jamuna Floodplain,Faridpur,5.6-6.5,5,6
+Dhaka,Manikganj,Saturia,23.97300000000001,90.036,8,Young Brahmaputra and Jamuna Floodplain,Tangail,5.6-6.5,5,3
+Dhaka,Manikganj,Shivalaya,23.834,89.869,12,Low Ganges River Floodplain,Faridpur,5.6-6.5,5,3
+Dhaka,Manikganj,Singair,23.787,90.16799999999999,8,Young Brahmaputra and Jamuna Floodplain,Dhaka,5.6-6.5,5,3
+Dhaka,Munshiganj,Gazaria,23.546999999999997,90.62,19,Meghna Estuarine Floodplain,Chandpur,4.5-5.5,5,4
+Dhaka,Munshiganj,Lohajang,23.474,90.32,19,Meghna Estuarine Floodplain,Madaripur,6.6-7.3,5,4
+Dhaka,Munshiganj,Munshiganj Sadar,23.5,90.544,8,Young Brahmaputra and Jamuna Floodplain,Chandpur,4.5-5.5,5,6
+Dhaka,Munshiganj,Sirajdikhan,23.596,90.39299999999999,12,Low Ganges River Floodplain,Dhaka,4.5-5.5,4,6
+Dhaka,Munshiganj,Sreenagar,23.548000000000002,90.28,15,Arial Bil,Dhaka,4.5-5.5,4,5
+Dhaka,Munshiganj,Tongibari,23.509,90.46600000000001,19,Meghna Estuarine Floodplain,Dhaka,4.5-5.5,4,5
+Dhaka,Mymensingh,Bhaluka,24.381,90.337,28,Madhupur Tract,Mymensingh,4.5-5.5,4,2
+Dhaka,Mymensingh,Dhobaura,25.09,90.522,22,Northern and Eastern Piedmont Plains,Mymensingh,4.5-5.5,4,2
+Dhaka,Mymensingh,Fulbaria,24.5716,90.262,9,Old Brahmaputra Floodplain,Mymensingh,4.5-5.5,4,2
+Dhaka,Mymensingh,Gaffargaon,24.3823,90.57,9,Old Brahmaputra Floodplain,Mymensingh,4.5-5.5,4,2
+Dhaka,Mymensingh,Gauripur,24.736,90.58200000000001,8,Young Brahmaputra and Jamuna Floodplain,Mymensingh,5.6-6.5,3,2
+Dhaka,Mymensingh,Haluaghat,25.124000000000002,90.339,22,Northern and Eastern Piedmont Plains,Mymensingh,5.6-6.5,3,2
+Dhaka,Mymensingh,Ishwarganj,24.691999999999997,90.594,9,Old Brahmaputra Floodplain,Mymensingh,5.6-6.5,3,2
+Dhaka,Mymensingh,Mymensingh Sadar,24.785,24.785,9,Old Brahmaputra Floodplain,Dinajpur,4.5-5.5,3,2
+Dhaka,Mymensingh,Muktagachha,24.766,90.256,9,Old Brahmaputra Floodplain,Mymensingh,5.6-6.5,3,2
+Dhaka,Mymensingh,Nandail,24.568,90.69,9,Old Brahmaputra Floodplain,Mymensingh,5.6-6.5,3,2
+Dhaka,Mymensingh,Phulpur,24.975,90.318,9,Old Brahmaputra Floodplain,Mymensingh,5.6-6.5,3,1
+Dhaka,Mymensingh,Trishal,24.570999999999998,90.412,9,Old Brahmaputra Floodplain,Mymensingh,5.6-6.5,4,1
+Dhaka,Mymensingh,Tara Khanda,24.855999999999998,90.488,8,Young Brahmaputra and Jamuna Floodplain,Mymensingh,4.5-5.5,4,1
+Dhaka,Narayanganj,Araihazar,23.791,90.65299999999999,9,Old Brahmaputra Floodplain,Dhaka,4.5-5.5,4,1
+Dhaka,Narayanganj,Bandar,23.631,90.535,19,Meghna Estuarine Floodplain,Dhaka,4.5-5.5,4,6
+Dhaka,Narayanganj,Narayanganj Sadar,23.631,90.49700000000001,19,Meghna Estuarine Floodplain,Dhaka,4.5-5.5,4,6
+Dhaka,Narayanganj,Rupganj,23.833000000000002,90.544,28,Madhupur Tract,Dhaka,4.5-5.5,4,6
+Dhaka,Narayanganj,Sonargaon,23.69,90.62,9,Old Brahmaputra Floodplain,Dhaka,4.5-5.5,4,5
+Dhaka,Netrokona,Atpara,24.809,90.86,9,Old Brahmaputra Floodplain,Mymensingh,4.5-5.5,5,5
+Dhaka,Netrokona,Barhatta,24.898000000000003,90.884,9,Old Brahmaputra Floodplain,Mymensingh,4.5-5.5,5,3
+Dhaka,Netrokona,Durgapur,25.113000000000003,90.67399999999999,22,Northern and Eastern Piedmont Plains,Mymensingh,0-4.4,5,3
+Dhaka,Netrokona,Khaliajuri,24.686,91.116,9,Old Brahmaputra Floodplain,Mymensingh,4.5-5.5,5,2
+Dhaka,Netrokona,Kalmakanda,25.076,90.889,22,Northern and Eastern Piedmont Plains,Mymensingh,4.5-5.5,5,2
+Dhaka,Netrokona,Kendua,24.67,90.84299999999999,9,Old Brahmaputra Floodplain,Mymensingh,0-4.4,5,2
+Dhaka,Netrokona,Madan,24.715999999999998,90.946,9,Old Brahmaputra Floodplain,Mymensingh,4.5-5.5,5,2
+Dhaka,Netrokona,Mohanganj,24.829,91.039,9,Old Brahmaputra Floodplain,Mymensingh,4.5-5.5,5,2
+Dhaka,Netrokona,Netrokona Sadar,24.881,90.727,9,Old Brahmaputra Floodplain,Mymensingh,4.5-5.5,5,2
+Dhaka,Netrokona,Purbadhala,24.943,90.6,9,Old Brahmaputra Floodplain,Mymensingh,4.5-5.5,4,2
+Dhaka,Rajbari,Baliakandi,23.643,89.568,12,Low Ganges River Floodplain,Faridpur,6.6-7.3,4,6
+Dhaka,Rajbari,Goalandaghat,23.72300000000001,89.76299999999998,10,Active Ganges Floodplain,Faridpur,7.4-8.4,4,6
+Dhaka,Rajbari,Pangsha,23.78,89.412,12,Low Ganges River Floodplain,Faridpur,7.4-8.4,4,5
+Dhaka,Rajbari,Rajbari Sadar,23.715,89.662,12,Low Ganges River Floodplain,Faridpur,7.4-8.4,4,5
+Dhaka,Rajbari,Kalukhali,23.455,89.294,12,Low Ganges River Floodplain,Jessore,7.4-8.4,4,5
+Dhaka,Shariatpur,Bhedarganj,23.214000000000002,90.506,10,Active Ganges Floodplain,Chandpur,7.4-8.4,4,1
+Dhaka,Shariatpur,Damudya,23.144000000000002,90.436,12,Low Ganges River Floodplain,Madaripur,6.6-7.3,4,1
+Dhaka,Shariatpur,Gosairhat,23.09800000000001,90.45200000000001,12,Low Ganges River Floodplain,Chandpur,7.4-8.4,4,2
+Dhaka,Shariatpur,Naria,23.261999999999997,90.431,19,Meghna Estuarine Floodplain,Chandpur,7.4-8.4,2,2
+Dhaka,Shariatpur,Shariatpur Sadar,23.219,90.348,12,Low Ganges River Floodplain,Madaripur,6.6-7.3,2,2
+Dhaka,Shariatpur,Zanjira,23.333000000000002,90.321,12,Low Ganges River Floodplain,Madaripur,7.4-8.4,2,2
+Dhaka,Shariatpur,Shakhipur,24.285999999999998,90.18700000000001,12,Low Ganges River Floodplain,Tangail,7.4-8.4,2,2
+Dhaka,Sherpur,Jhenaigati,25.185,90.06299999999996,22,Northern and Eastern Piedmont Plains,Mymensingh,4.5-5.5,2,2
+Dhaka,Sherpur,Nakla,24.971,90.178,9,Old Brahmaputra Floodplain,Mymensingh,5.6-6.5,3,2
+Dhaka,Sherpur,Nalitabari,25.085,90.194,22,Northern and Eastern Piedmont Plains,Mymensingh,4.5-5.5,3,2
+Dhaka,Sherpur,Sherpur Sadar,25.019000000000002,90.01299999999998,9,Old Brahmaputra Floodplain,Mymensingh,5.6-6.5,3,2
+Dhaka,Sherpur,Sreebardi,25.147,89.939,9,Old Brahmaputra Floodplain,Mymensingh,5.6-6.5,3,2
+Dhaka,Tangail,Gopalpur,24.561999999999998,89.927,8,Young Brahmaputra and Jamuna Floodplain,Tangail,6.6-7.3,3,4
+Dhaka,Tangail,Basail,24.233,90.051,9,Old Brahmaputra Floodplain,Tangail,4.5-5.5,3,4
+Dhaka,Tangail,Bhuapur,24.465999999999998,89.87,7,Active Brahmaputra-Jamuna Floodplain,Tangail,7.4-8.4,3,4
+Dhaka,Tangail,Delduar,24.12,89.944,8,Young Brahmaputra and Jamuna Floodplain,Tangail,5.6-6.5,3,4
+Dhaka,Tangail,Ghatail,24.476,90.037,28,Madhupur Tract,Tangail,4.5-5.5,3,4
+Dhaka,Tangail,Kalihati,24.339000000000002,89.92399999999998,8,Young Brahmaputra and Jamuna Floodplain,Tangail,7.4-8.4,3,3
+Dhaka,Tangail,Madhupur,24.611,90.031,28,Madhupur Tract,Tangail,4.5-5.5,3,3
+Dhaka,Tangail,Mirzapur,24.105,90.105,28,Madhupur Tract,Tangail,7.4-8.4,3,2
+Dhaka,Tangail,Nagarpur,24.057,89.876,8,Young Brahmaputra and Jamuna Floodplain,Tangail,7.4-8.4,3,2
+Dhaka,Tangail,Sakhipur,24.31900000000001,90.175,28,Madhupur Tract,Tangail,4.5-5.5,3,2
+Dhaka,Tangail,Dhanbari,24.69,89.944,9,Old Brahmaputra Floodplain,Mymensingh,4.5-5.5,4,4
+Dhaka,Tangail,Tangail Sadar,24.261999999999997,89.869,8,Young Brahmaputra and Jamuna Floodplain,Tangail,6.6-7.3,4,4
+Dhaka,Narsingdi,Narsingdi Sadar,23.88,90.696,9,Old Brahmaputra Floodplain,Dhaka,4.5-5.5,4,5
+Dhaka,Narsingdi,Belabo,24.081999999999997,90.838,28,Madhupur Tract,Dhaka,4.5-5.5,4,5
+Dhaka,Narsingdi,Monohardi,24.166,90.734,9,Old Brahmaputra Floodplain,Dhaka,4.5-5.5,4,6
+Dhaka,Narsingdi,Palash,23.964000000000002,90.648,9,Old Brahmaputra Floodplain,Dhaka,5.6-6.5,4,5
+Dhaka,Narsingdi,Raipura,23.994,90.87100000000001,16,Middle Meghna River Floodplain,Dhaka,5.6-6.5,4,5
+Dhaka,Narsingdi,Shibpur,23.98,90.73299999999999,9,Old Brahmaputra Floodplain,Dhaka,4.5-5.5,4,5
+Khulna,Bagerhat,Bagerhat Sadar,22.691,89.756,13,Ganges Tidal Floodplain,Mongla,6.6-7.3,6,6
+Khulna,Bagerhat,Chitalmari,22.785999999999998,89.869,13,Ganges Tidal Floodplain,Khulna,5.6-6.5,6,6
+Khulna,Bagerhat,Fakirhat,22.776999999999997,89.70700000000002,11,High Ganges River Floodplain,Khulna,6.6-7.3,6,6
+Khulna,Bagerhat,Kachua,22.6526,89.8856,13,Ganges Tidal Floodplain,Khulna,7.4-8.4,6,6
+Khulna,Bagerhat,Mollahat,22.881,89.756,14,Gopalgonj-Khulna Bils,Khulna,5.6-6.5,6,6
+Khulna,Bagerhat,Mongla,22.531,89.59,13,Ganges Tidal Floodplain,Mongla,6.3-7.8,6,6
+Khulna,Bagerhat,Morrelganj,22.449,89.852,13,Ganges Tidal Floodplain,Mongla,7.4-8.4,6,6
+Khulna,Bagerhat,Rampal,22.595,89.681,13,Ganges Tidal Floodplain,Mongla,7.4-8.4,6,6
+Khulna,Bagerhat,Sarankhola,22.095,89.81299999999996,13,Ganges Tidal Floodplain,Khepupara,6.3-7.8,6,6
+Khulna,Chuadanga,Alamdanga,23.761999999999997,88.943,11,High Ganges River Floodplain,Chuadanga,7.4-8.4,6,5
+Khulna,Chuadanga,Chuadanga Sadar,23.592,88.883,11,High Ganges River Floodplain,Chuadanga,7.4-8.4,6,5
+Khulna,Chuadanga,Damurhuda,23.615,88.749,11,High Ganges River Floodplain,Chuadanga,7.4-8.4,6,5
+Khulna,Chuadanga,Jibannagar,23.421999999999997,88.823,11,High Ganges River Floodplain,Chuadanga,6.6-7.3,6,5
+Khulna,Jessore,Abhaynagar,23.023000000000003,89.37899999999998,14,Gopalgonj-Khulna Bils,Khulna,6.6-7.3,6,5
+Khulna,Jessore,Bagherpara,23.22,89.346,11,High Ganges River Floodplain,Jessore,6.6-7.3,6,5
+Khulna,Jessore,Chaugachha,23.26,89.037,11,High Ganges River Floodplain,Jessore,7.4-8.4,6,5
+Khulna,Jessore,Jhikargachha,23.099,89.09899999999998,11,High Ganges River Floodplain,Jessore,7.4-8.4,6,5
+Khulna,Jessore,Keshabpur,22.901999999999997,89.22,11,High Ganges River Floodplain,Jessore,7.4-8.4,3,6
+Khulna,Jessore,Jessore Sadar,23.166,89.227,11,High Ganges River Floodplain,Jessore,6.6-7.3,3,6
+Khulna,Jessore,Manirampur,23.023000000000003,89.227,11,High Ganges River Floodplain,Jessore,6.6-7.3,3,6
+Khulna,Jessore,Sharsha,23.06900000000001,88.96,11,High Ganges River Floodplain,Jessore,6.6-7.3,6,6
+Khulna,Jhenaida,Harinakunda,23.641,89.075,11,High Ganges River Floodplain,Chuadanga,7.4-8.4,6,6
+Khulna,Jhenaida,Jhenaidah Sadar,23.499000000000002,89.15100000000002,11,High Ganges River Floodplain,Chuadanga,6.6-7.3,6,6
+Khulna,Jhenaida,Kaliganj,23.3563,89.1515,11,High Ganges River Floodplain,Chuadanga,6.6-7.3,6,6
+Khulna,Jhenaida,Kotchandpur,23.406999999999996,89.012,11,High Ganges River Floodplain,Chuadanga,7.4-8.4,6,6
+Khulna,Jhenaida,Maheshpur,23.33,88.82600000000002,11,High Ganges River Floodplain,Chuadanga,7.4-8.4,6,6
+Khulna,Jhenaida,Shailkupa,23.684,89.242,11,High Ganges River Floodplain,Chuadanga,7.4-8.4,6,6
+Khulna,Khulna,Batiaghata,22.726,89.50200000000002,13,Ganges Tidal Floodplain,Khulna,6.6-7.3,6,6
+Khulna,Khulna,Dacope,22.601,89.507,13,Ganges Tidal Floodplain,Mongla,6.3-7.8,6,6
+Khulna,Khulna,Dumuria,22.789,89.48100000000002,13,Ganges Tidal Floodplain,Khulna,7.4-8.4,6,5
+Khulna,Khulna,Dighalia,22.895,89.521,14,Gopalgonj-Khulna Bils,Khulna,5.6-6.5,6,5
+Khulna,Khulna,Koyra,22.338,89.29899999999998,13,Ganges Tidal Floodplain,Satkhira,6.3-7.8,6,5
+Khulna,Khulna,Paikgachha,22.593000000000004,89.316,13,Ganges Tidal Floodplain,Mongla,4.5-5.5,6,5
+Khulna,Khulna,Phultala,22.94,89.445,14,Gopalgonj-Khulna Bils,Khulna,5.6-6.5,6,5
+Khulna,Khulna,Rupsha,22.8,89.586,11,High Ganges River Floodplain,Khulna,6.6-7.3,6,5
+Khulna,Khulna,Terokhada,22.935,89.667,14,Gopalgonj-Khulna Bils,Khulna,5.6-6.5,6,6
+Khulna,Khulna,Daulatpur Thana,24.005,88.875,13,Ganges Tidal Floodplain,Ishurdi,6.6-7.3,6,6
+Khulna,Khulna,Khalishpur Thana,22.85,89.536,13,Ganges Tidal Floodplain,Khulna,6.6-7.3,6,6
+Khulna,Khulna,Khan Jahan Ali Thana,22.914,89.506,13,Ganges Tidal Floodplain,Khulna,6.6-7.3,6,6
+Khulna,Khulna,Kotwali Thana,22.8083,89.5667,13,Ganges Tidal Floodplain,Khulna,6.6-7.3,6,6
+Khulna,Khulna,Sonadanga Thana,22.824,89.538,13,Ganges Tidal Floodplain,Khulna,6.6-7.3,6,3
+Khulna,Khulna,Harintana Thana,22.474,89.314,13,Ganges Tidal Floodplain,Satkhira,6.6-7.3,6,3
+Khulna,Kushtia,Bheramara,24.105,88.965,11,High Ganges River Floodplain,Ishurdi,7.4-8.4,3,3
+Khulna,Kushtia,Daulatpur,24.005,88.875,11,High Ganges River Floodplain,Ishurdi,7.4-8.4,3,5
+Khulna,Kushtia,Khoksa,23.805,89.28299999999999,12,Low Ganges River Floodplain,Ishurdi,7.4-8.4,3,5
+Khulna,Kushtia,Kumarkhali,23.859,89.23899999999998,11,High Ganges River Floodplain,Ishurdi,7.4-8.4,3,5
+Khulna,Kushtia,Kushtia Sadar,23.879,89.09200000000001,11,High Ganges River Floodplain,Ishurdi,6.6-7.3,3,5
+Khulna,Kushtia,Mirpur,23.93,89.0,11,High Ganges River Floodplain,Ishurdi,7.4-8.4,3,5
+Khulna,Kushtia,Shekhpara,23.47,89.12,11,High Ganges River Floodplain,Jessore,7.4-8.4,2,5
+Khulna,Magura,Magura Sadar,23.485,89.419,11,High Ganges River Floodplain,Jessore,6.6-7.3,2,6
+Khulna,Magura,Mohammadpur,23.405,89.568,12,Low Ganges River Floodplain,Faridpur,7.4-8.4,2,6
+Khulna,Magura,Shalikha,23.357,89.34100000000002,11,High Ganges River Floodplain,Jessore,6.6-7.3,2,6
+Khulna,Magura,Sreepur,23.595,89.417,11,High Ganges River Floodplain,Faridpur,7.4-8.4,2,6
+Khulna,Meherpur,Gangni,23.82,88.7422,11,High Ganges River Floodplain,Chuadanga,7.4-8.4,6,6
+Khulna,Meherpur,Meherpur Sadar,23.781,88.65299999999998,11,High Ganges River Floodplain,Chuadanga,7.4-8.4,6,6
+Khulna,Meherpur,Mujibnagar,23.638,88.61399999999998,11,High Ganges River Floodplain,Chuadanga,7.4-8.4,6,6
+Khulna,Narail,Kalia,23.024,89.64399999999998,12,Low Ganges River Floodplain,Khulna,6.6-7.3,2,6
+Khulna,Narail,Lohagara,23.166999999999998,89.64399999999998,12,Low Ganges River Floodplain,Khulna,7.4-8.4,2,6
+Khulna,Narail,Narail Sadar,23.165,89.499,12,Low Ganges River Floodplain,Jessore,6.6-7.3,2,6
+Khulna,Narail,Naragati Thana,23.031,89.727,12,Low Ganges River Floodplain,Khulna,6.6-7.3,2,6
+Khulna,Satkhira,Assasuni,22.546,89.189,13,Ganges Tidal Floodplain,Satkhira,4.5-5.5,6,5
+Khulna,Satkhira,Debhata,22.58,88.98899999999998,13,Ganges Tidal Floodplain,Satkhira,6.6-7.3,6,5
+Khulna,Satkhira,Kalaroa,22.857,89.041,11,High Ganges River Floodplain,Jessore,7.4-8.4,6,5
+Khulna,Satkhira,Kaliganj,22.474,89.056,13,Ganges Tidal Floodplain,Satkhira,4.5-5.5,6,5
+Khulna,Satkhira,Satkhira Sadar,22.736,89.037,11,High Ganges River Floodplain,Satkhira,6.6-7.3,6,5
+Khulna,Satkhira,Shyamnagar,22.339000000000002,89.10600000000002,13,Ganges Tidal Floodplain,Satkhira,6.3-7.8,6,5
+Khulna,Satkhira,Tala,22.76,89.208,11,High Ganges River Floodplain,Khulna,7.4-8.4,6,5
+Sylhet,Habiganj,Ajmiriganj,24.548000000000002,91.236,19,Meghna Estuarine Floodplain,Srimangal,4.5-5.5,2,2
+Sylhet,Habiganj,Bahubal,24.340999999999998,91.537,20,Eastern Surma-Kusiyara Floodplain,Srimangal,4.5-5.5,2,2
+Sylhet,Habiganj,Baniyachong,24.506,91.35600000000001,21,sylhet Basin,Srimangal,4.5-5.5,2,2
+Sylhet,Habiganj,Chunarughat,24.184,91.48200000000001,22,Northern and Eastern Piedmont Plains,Srimangal,4.5-5.5,6,2
+Sylhet,Habiganj,Habiganj Sadar,24.351,91.42399999999999,22,Northern and Eastern Piedmont Plains,Srimangal,4.5-5.5,6,2
+Sylhet,Habiganj,Lakhai,24.31,91.302,19,Meghna Estuarine Floodplain,Srimangal,4.5-5.5,3,2
+Sylhet,Habiganj,Madhabpur,24.099,91.296,19,Meghna Estuarine Floodplain,Srimangal,4.5-5.5,3,2
+Sylhet,Habiganj,Nabiganj,24.566999999999997,91.51299999999999,20,Eastern Surma-Kusiyara Floodplain,Srimangal,4.5-5.5,3,1
+Sylhet,Moulvibazar,Barlekha,24.71,92.195,29,Northern and Eastern Hills,Sylhet,4.5-5.5,2,1
+Sylhet,Moulvibazar,Kamalganj,24.358,91.861,29,Northern and Eastern Hills,Srimangal,4.5-5.5,2,1
+Sylhet,Moulvibazar,Kulaura,24.525,92.03399999999999,29,Northern and Eastern Hills,Srimangal,0-4.4,1,1
+Sylhet,Moulvibazar,Moulvibazar Sadar,24.467,91.715,20,Eastern Surma-Kusiyara Floodplain,Srimangal,4.5-5.5,1,2
+Sylhet,Moulvibazar,Rajnagar,24.53,91.85600000000001,20,Eastern Surma-Kusiyara Floodplain,Srimangal,0-4.4,1,4
+Sylhet,Moulvibazar,Sreemangal,24.301,91.695,22,Northern and Eastern Piedmont Plains,Srimangal,4.5-5.5,1,4
+Sylhet,Moulvibazar,Juri,24.596999999999998,92.11399999999999,29,Northern and Eastern Hills,Sylhet,4.5-5.5,1,4
+Sylhet,Sunamganj,Bishwamvarpur,25.09800000000001,91.29899999999999,21,sylhet Basin,Sylhet,0-4.4,2,4
+Sylhet,Sunamganj,Chhatak,24.941999999999997,91.637,20,Eastern Surma-Kusiyara Floodplain,Sylhet,4.5-5.5,2,2
+Sylhet,Sunamganj,Derai,24.755,91.404,21,sylhet Basin,Sylhet,4.5-5.5,2,2
+Sylhet,Sunamganj,Dharampasha,24.899,91.012,21,sylhet Basin,Mymensingh,4.5-5.5,1,2
+Sylhet,Sunamganj,Dowarabazar,25.048000000000002,91.55799999999999,22,Northern and Eastern Piedmont Plains,Sylhet,4.5-5.5,1,2
+Sylhet,Sunamganj,Jagannathpur,24.753,91.559,20,Eastern Surma-Kusiyara Floodplain,Sylhet,4.5-5.5,1,2
+Sylhet,Sunamganj,Jamalganj,24.97,91.19200000000001,21,sylhet Basin,Sylhet,4.5-5.5,1,1
+Sylhet,Sunamganj,Sullah,24.67,91.262,21,sylhet Basin,Srimangal,4.5-5.5,1,1
+Sylhet,Sunamganj,Sunamganj Sadar,25.016,91.385,21,sylhet Basin,Sylhet,4.5-5.5,1,1
+Sylhet,Sunamganj,Tahirpur,25.099,91.175,21,sylhet Basin,Sylhet,4.5-5.5,1,1
+Sylhet,Sunamganj,South Sunamganj,24.921,91.42399999999999,21,sylhet Basin,Sylhet,4.5-5.5,1,2
+Sylhet,Sylhet,Balaganj,24.654,91.824,20,Eastern Surma-Kusiyara Floodplain,Sylhet,4.5-5.5,3,2
+Sylhet,Sylhet,Beanibazar,24.822,92.15799999999999,20,Eastern Surma-Kusiyara Floodplain,Sylhet,4.5-5.5,3,2
+Sylhet,Sylhet,Bishwanath,24.823,91.734,20,Eastern Surma-Kusiyara Floodplain,Sylhet,4.5-5.5,3,2
+Sylhet,Sylhet,Companigonj,25.087,91.755,20,Eastern Surma-Kusiyara Floodplain,Sylhet,0-4.4,6,1
+Sylhet,Sylhet,Fenchuganj,24.693,91.93299999999999,20,Eastern Surma-Kusiyara Floodplain,Sylhet,4.5-5.5,2,1
+Sylhet,Sylhet,Golapganj,24.858,92.015,20,Eastern Surma-Kusiyara Floodplain,Sylhet,4.5-5.5,2,1
+Sylhet,Sylhet,Gowainghat,25.104,91.96799999999999,20,Eastern Surma-Kusiyara Floodplain,Sylhet,4.5-5.5,2,1
+Sylhet,Sylhet,Jaintiapur,25.134,92.12200000000001,20,Eastern Surma-Kusiyara Floodplain,Sylhet,4.5-5.5,1,2
+Sylhet,Sylhet,Kanaighat,25.0,92.255,20,Eastern Surma-Kusiyara Floodplain,Sylhet,4.5-5.5,1,2
+Sylhet,Sylhet,Sylhet Sadar,24.96,91.81200000000001,20,Eastern Surma-Kusiyara Floodplain,Sylhet,4.5-5.5,2,2
+Sylhet,Sylhet,Zakiganj,24.878,92.367,20,Eastern Surma-Kusiyara Floodplain,Sylhet,4.5-5.5,2,2
+Sylhet,Sylhet,South Shurma,24.820999999999998,91.89,20,Eastern Surma-Kusiyara Floodplain,Sylhet,0-4.4,2,2
